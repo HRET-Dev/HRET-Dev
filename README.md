@@ -29,7 +29,7 @@
 <h2 align="center">📊 最常用的语言</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulCodingYanhun&theme=light&hide_border=true&layout=compact&langs_count=6&locale=cn&card_width=445&custom_title=我最常用的编程语言" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRET-H&theme=light&hide_border=true&layout=compact&langs_count=6&locale=cn&card_width=445&custom_title=我最常用的编程语言" />
 </p>
 
 <p align="center">
@@ -37,9 +37,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/SoulCodingYanhun"><img src="https://img.shields.io/badge/GitHub-SoulCodingYanhun-black?style=flat-square&logo=github" /></a>
-<a href="https://space.bilibili.com/1875279049"><img src="https://img.shields.io/badge/哔哩哔哩-我就是soulcoding-00A1D6?style=flat-square&logo=bilibili" /></a>
-<img src="https://komarev.com/ghpvc/?username=SoulCodingYanhun&color=lightgrey&style=flat-square" />
+<a href="https://github.com/HRET-H"><img src="https://img.shields.io/badge/GitHub-HRET-black?style=flat-square&logo=github" /></a>
 </p>
 
 <p align="center">
