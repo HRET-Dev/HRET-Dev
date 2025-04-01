@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SoulCodingYanhun&theme=minimal&hide_border=true&area=true&custom_title=贡献图" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HRET-H&theme=minimal&hide_border=true&area=true&custom_title=贡献图" />
 </p>
 
 <h2 align="center">🚀 我的技术栈</h2>
