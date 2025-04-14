@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HRET-H&theme=minimal&hide_border=true&area=true&custom_title=贡献图" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HRET-Dev&theme=minimal&hide_border=true&area=true&custom_title=贡献图" />
 </p>
 
 <h2 align="center">🚀 我的技术栈</h2>
@@ -33,7 +33,7 @@
 <h2 align="center">📊 最常用的语言</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRET-H&theme=light&hide_border=true&layout=compact&langs_count=6&locale=cn&card_width=445&custom_title=我最常用的编程语言" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRET-Dev&theme=light&hide_border=true&layout=compact&langs_count=6&locale=cn&card_width=445&custom_title=我最常用的编程语言" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/HRET-H"><img src="https://img.shields.io/badge/GitHub-HRET-black?style=flat-square&logo=github" /></a>
+<a href="https://github.com/HRET-Dev"><img src="https://img.shields.io/badge/GitHub-HRET-black?style=flat-square&logo=github" /></a>
 </p>
 
 <p align="center">
