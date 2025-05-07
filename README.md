@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&lines=欢迎来到我的GitHub个人主页!;热爱编程，追求创新!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=681FF7&center=true&vCenter=true&width=600&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%EF%BC%81;%E7%83%AD%E7%88%B1%E7%BC%96%E7%A8%8B%EF%BC%8C%E8%BF%BD%E6%B1%82%E5%88%9B%E6%96%B0%EF%BC%81" />
 </p>
 
 <p align="center">
