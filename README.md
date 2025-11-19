@@ -33,7 +33,7 @@
 <h2 align="center">📊 最常用的语言</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRET-Dev&theme=light&hide_border=true&layout=compact&langs_count=6&locale=cn&card_width=445&custom_title=我最常用的编程语言" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HRET-Dev&theme=light&hide_border=true&layout=compact&langs_count=6&locale=cn&card_width=445&custom_title=我最常用的编程语言" />
 </p>
 
 <p align="center">
